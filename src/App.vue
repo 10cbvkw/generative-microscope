@@ -17,7 +17,7 @@
 
     <!-- 底部超链接 -->
     <footer class="footer">
-      <a href="https://example.com/vem_app" target="_blank" class="footer-link">vEM app</a>
+      <a href="https://bohrium.dp.tech/apps/vem-dps" target="_blank" class="footer-link">vEM app</a>
     </footer>
   </div>
 </template>
